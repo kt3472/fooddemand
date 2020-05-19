@@ -12,7 +12,7 @@
 
 3. BaseLine Model
 
-4. Prameter Tunning
+4. Prameter Tunning / feature engineering
 
 5. Final modeling
 
