@@ -7,7 +7,7 @@
 * Evaluation : 100 * RMSLE ( root of mean squared logarithmic error )
 
 ## 1. Objects
-* 미래 10주간의 식자재 수요 예측(146주 ~ 155주)
+* 미래 10주간(146주 ~ 155주)의 식자재 수요 예측
  
 ## 2. Data Exploration
 
