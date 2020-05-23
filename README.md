@@ -16,7 +16,5 @@
 
 ## 4. Parameter Tunning / feature engineering
 
-## 5. Final modeling
-
-## 6. Result
+## 5. Result
 
