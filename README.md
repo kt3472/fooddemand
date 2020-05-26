@@ -22,7 +22,7 @@
 * 할인율, 할인율구간, 프로모션합계, sin-cos transform 등 생성   
 * Grid search 를 통해 최적의 파라미터를 산출({'colsample_bytree': 0.4, 'min_child_samples': 5, 'num_leaves': 127'}
 
-## 5. Result
+## 5. Results
 * final score = 52.6740812166, 
-* 1,344팀 / 112위, 상위 8%
+* 1,344팀 / 112위, 상위 8%(2020/05/25기준)
 
