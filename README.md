@@ -17,4 +17,6 @@
 ## 4. Parameter Tunning / feature engineering
 
 ## 5. Result
+* final score = 52.6740812166, 
+* 1,344팀 / 112위, 상위 8%
 
