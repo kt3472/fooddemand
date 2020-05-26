@@ -12,7 +12,7 @@
 ## 2. Data Exploration
 
 ## 3. Model
-* 앙상블 그래디언트 알고리즘인 [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html) 사용
+* Ensemble & Gredient 알고리즘인 [LightGBM](https://lightgbm.readthedocs.io/en/latest/index.html) 모델 사용
 * 참고 : [Gredient Boost](https://en.wikipedia.org/wiki/Gradient_boosting), [Ensemble](https://tensorflow.blog/파이썬-머신러닝/2-3-6-결정-트리의-앙상블/)
 
 
