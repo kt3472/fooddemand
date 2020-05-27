@@ -19,7 +19,7 @@
 
 
 ## 4. Parameter Tunning / feature engineering
-* 할인율, 할인율구간, 프로모션합계, sin-cos transform 등 생성   
+* 할인율, 할인율구간, Email&Web프로모션 병합, 지역&센터 병합 피쳐 생성 및 주(week)컬럼의 sin-cos transform 등   
 * Grid search 를 통해 최적의 파라미터를 산출({'colsample_bytree': 0.4, 'min_child_samples': 5, 'num_leaves': 127'}
 
 ## 5. Results
